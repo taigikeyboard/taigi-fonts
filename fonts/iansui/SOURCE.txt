@@ -1,0 +1,4 @@
+Original source: https://github.com/ButTaiwan/iansui
+Copyright: ButTaiwan
+Bundled file: font.ttf
+License file: LICENSE.txt
