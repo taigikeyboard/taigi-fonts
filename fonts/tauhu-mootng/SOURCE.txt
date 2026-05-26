@@ -1,0 +1,4 @@
+Original source: https://github.com/tauhu-tw/tauhu-mootng
+Copyright: TSNG Bing-gan (tauhu-tw); derived from BabelStone Modern (Andrew West)
+Bundled file: font.otf (TauhuMootng20.05-Regular.otf, v20.05, Regular)
+License file: LICENSE.txt

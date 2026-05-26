@@ -1,0 +1,4 @@
+Original source: https://github.com/NightFurySL2001/WD-XL-font
+Copyright: The WD-XL Lubrifont Project Authors; derived from ZCOOL QingKe HuangYou
+Bundled file: font.otf (WD-XLLubrifontTC-Regular.otf, v2.100, TC Regular)
+License file: LICENSE.txt

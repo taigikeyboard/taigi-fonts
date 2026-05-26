@@ -1,0 +1,4 @@
+Original source: https://github.com/ButTaiwan/genryu-font
+Copyright: ButTaiwan
+Bundled file: font.otf (GenRyuMin2TW-R.otf, v2.100, TW Regular)
+License file: LICENSE.txt
