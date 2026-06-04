@@ -1,0 +1,4 @@
+Original source: https://github.com/ButTaiwan/LessonOne
+Copyright: But Ko; derived from SIL Andika
+Bundled file: font.ttf (LessonOne-Regular.ttf, v1.100, Regular)
+License file: LICENSE.txt

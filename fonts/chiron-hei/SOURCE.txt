@@ -1,0 +1,4 @@
+Original source: https://github.com/chiron-fonts/chiron-hei-hk
+Copyright: Tamcy
+Bundled file: font.otf (ChironHeiHK-R.otf, v2.609, Regular)
+License file: LICENSE.txt

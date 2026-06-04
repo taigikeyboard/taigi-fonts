@@ -1,0 +1,4 @@
+Original source: https://github.com/chiron-fonts/chiron-sung-hk
+Copyright: Tamcy
+Bundled file: font.otf (ChironSungHK-R.otf, v1.024, Regular)
+License file: LICENSE.txt
