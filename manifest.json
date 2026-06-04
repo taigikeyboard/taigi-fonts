@@ -245,6 +245,36 @@
       "sourceUrl": "https://github.com/tauhu-tw/tauhu-mootng",
       "sha256": "839ef715104871274ec0013a1ca267d623ab6e4ce76e29d6d7e5ee51c7f446db",
       "sizeBytes": 29084
+    },
+    {
+      "id": "kahik-mono",
+      "displayName": "Kahikfontmonospaced",
+      "displayNameZh": "佮逸體（等寬）",
+      "fileName": "font.otf",
+      "format": "otf",
+      "path": "fonts/kahik-mono/font.otf",
+      "licensePath": "fonts/kahik-mono/LICENSE.txt",
+      "sourcePath": "fonts/kahik-mono/SOURCE.txt",
+      "license": "SIL Open Font License 1.1",
+      "copyright": "Wang,YI CHIA",
+      "sourceUrl": "https://drive.google.com/drive/folders/1OnXPY_aZZ4a1SzrJnnS_JPUwwDcb5VGc",
+      "sha256": "303f6f91f7fad0cf14ccb3e7d3627808fe7cd5ef0bfce02c846043b34085b2e5",
+      "sizeBytes": 6145040
+    },
+    {
+      "id": "kahik-proportional",
+      "displayName": "Kahikfontproportional",
+      "displayNameZh": "佮逸體（比例）",
+      "fileName": "font.otf",
+      "format": "otf",
+      "path": "fonts/kahik-proportional/font.otf",
+      "licensePath": "fonts/kahik-proportional/LICENSE.txt",
+      "sourcePath": "fonts/kahik-proportional/SOURCE.txt",
+      "license": "SIL Open Font License 1.1",
+      "copyright": "Wang,YI CHIA",
+      "sourceUrl": "https://drive.google.com/drive/folders/1OnXPY_aZZ4a1SzrJnnS_JPUwwDcb5VGc",
+      "sha256": "603916ca6ca2a7c51721312cc3cfdac8044d9a58f9ad9e75c03a3e0028fb3a19",
+      "sizeBytes": 6145096
     }
   ]
 }

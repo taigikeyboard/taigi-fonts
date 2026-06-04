@@ -13,5 +13,7 @@ Use the license file bundled inside each font directory:
 - `fonts/genyo-min/LICENSE.txt`
 - `fonts/iansui/LICENSE.txt`
 - `fonts/open-huninn/LICENSE.txt`
+- `fonts/kahik-mono/LICENSE.txt`
+- `fonts/kahik-proportional/LICENSE.txt`
 
 Do not assume the repository root license applies to the font files.
