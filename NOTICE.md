@@ -15,5 +15,7 @@ Use the license file bundled inside each font directory:
 - `fonts/open-huninn/LICENSE.txt`
 - `fonts/kahik-mono/LICENSE.txt`
 - `fonts/kahik-proportional/LICENSE.txt`
+- `fonts/chenyuluoyan-thin/LICENSE.txt`
+- `fonts/chenyuluoyan-thin-mono/LICENSE.txt`
 
 Do not assume the repository root license applies to the font files.
