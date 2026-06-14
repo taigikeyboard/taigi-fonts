@@ -275,6 +275,36 @@
       "sourceUrl": "https://drive.google.com/drive/folders/1OnXPY_aZZ4a1SzrJnnS_JPUwwDcb5VGc",
       "sha256": "603916ca6ca2a7c51721312cc3cfdac8044d9a58f9ad9e75c03a3e0028fb3a19",
       "sizeBytes": 6145096
+    },
+    {
+      "id": "chenyuluoyan-thin",
+      "displayName": "ChenYuluoyan-2.0-Thin",
+      "displayNameZh": "辰宇落雁體",
+      "fileName": "font.ttf",
+      "format": "ttf",
+      "path": "fonts/chenyuluoyan-thin/font.ttf",
+      "licensePath": "fonts/chenyuluoyan-thin/LICENSE.txt",
+      "sourcePath": "fonts/chenyuluoyan-thin/SOURCE.txt",
+      "license": "SIL Open Font License 1.1",
+      "copyright": "Wang Li-Yu, Liu Wei-Chen",
+      "sourceUrl": "https://github.com/Chenyu-otf/chenyuluoyan_thin",
+      "sha256": "1289e42a6d1ec995d0cb23aee89efc69fc95749fbd54a610057a3e992dc453db",
+      "sizeBytes": 9522140
+    },
+    {
+      "id": "chenyuluoyan-thin-mono",
+      "displayName": "ChenYuluoyan-Thin-Monospaced",
+      "displayNameZh": "辰宇落雁體 等寬",
+      "fileName": "font.ttf",
+      "format": "ttf",
+      "path": "fonts/chenyuluoyan-thin-mono/font.ttf",
+      "licensePath": "fonts/chenyuluoyan-thin-mono/LICENSE.txt",
+      "sourcePath": "fonts/chenyuluoyan-thin-mono/SOURCE.txt",
+      "license": "SIL Open Font License 1.1",
+      "copyright": "Wang Li-Yu, Liu Wei-Chen",
+      "sourceUrl": "https://github.com/Chenyu-otf/chenyuluoyan_thin",
+      "sha256": "d8ecd0598634c92f0b29f90aabef8f7916f17aef19b0350883ca7b46979a5373",
+      "sizeBytes": 4515324
     }
   ]
 }

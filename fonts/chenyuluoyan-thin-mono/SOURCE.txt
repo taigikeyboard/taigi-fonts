@@ -1,0 +1,5 @@
+Original source: https://github.com/Chenyu-otf/chenyuluoyan_thin
+Copyright: Wang Li-Yu, Liu Wei-Chen
+Bundled file: font.ttf
+Original file: ChenYuluoyan-Thin-Monospaced.ttf
+License file: LICENSE.txt
